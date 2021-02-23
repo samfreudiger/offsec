@@ -1,4 +1,4 @@
-# ofsec stuff
+# offsec stuff
 personal repository of osint related stuff 
 
 <br><br><br>

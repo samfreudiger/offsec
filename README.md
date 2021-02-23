@@ -15,6 +15,7 @@ https://medium.com/vartai-security/practical-voip-penetration-testing-a1791602e1
 https://linuxhint.com/udp_scanning_nmap/ <br> 
 https://github.com/Ignitetechnologies/Nmap-For-Pentester <br>
 https://github.com/lgandx/Responder <br>
+https://pentestlaboratories.com/2021/01/18/process-herpaderping-windows-defender-evasion/amp/ <br>
 
 
 __webapp:__ <br>

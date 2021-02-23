@@ -31,4 +31,5 @@ https://www.litmus.com/blog/the-ultimate-guide-to-web-fonts/ <br>
 
 
 __unsorted:__ <br>
-https://delta.navisec.io/osint-for-pentesters-part-3-password-spraying-methodology/
+https://delta.navisec.io/ <br>
+

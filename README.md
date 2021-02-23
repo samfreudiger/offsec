@@ -1,5 +1,5 @@
 # offsec stuff
-personal repository of osint related stuff 
+personal repository of offensive security related stuff 
 
 <br><br><br>
 
@@ -26,5 +26,5 @@ https://medium.com/@k43p/fuzzing-web-applications-with-burp-suite-7908e62d20f6 <
 
 __phishing:__ <br>
 https://github.com/onvio/gophish <br> 
-https://www.litmus.com/blog/the-ultimate-guide-to-web-fonts/
+https://www.litmus.com/blog/the-ultimate-guide-to-web-fonts/ <br> 
 

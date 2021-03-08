@@ -26,7 +26,8 @@ https://portswigger.net/support/using-sql-injection-to-bypass-authentication <br
 https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties <br> 
 https://github.com/OWASP/CheatSheetSeries <br> 
 https://medium.com/@k43p/fuzzing-web-applications-with-burp-suite-7908e62d20f6 <br> 
-https://delta.navisec.io/a-pentesters-guide-part-5-unmasking-wafs-and-finding-the-source/
+https://delta.navisec.io/a-pentesters-guide-part-5-unmasking-wafs-and-finding-the-source/ <br>
+https://xsshunter.com <br>
 
 
 __phishing:__ <br>

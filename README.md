@@ -7,6 +7,8 @@ __collections:__ <br>
 https://rmusser.net/docs <br> 
 https://six2dez.gitbook.io/pentest-book <br> 
 https://notes.rotzsecurity.eu/ <br> 
+https://fareedfauzi.gitbook.io/oscp-notes/ <br> 
+
 
 
 __infra:__ <br>

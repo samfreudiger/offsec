@@ -19,6 +19,8 @@ https://github.com/Ignitetechnologies/Nmap-For-Pentester <br>
 https://github.com/lgandx/Responder <br>
 https://pentestlaboratories.com/2021/01/18/process-herpaderping-windows-defender-evasion/amp/ <br>
 https://github.com/jesusprubio/bluebox-ng <br>
+https://jarnobaselier.nl/hacking-active-directory-cheatsheet/ <br>
+
 
 
 __webapp:__ <br>

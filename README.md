@@ -20,6 +20,9 @@ https://github.com/lgandx/Responder <br>
 https://pentestlaboratories.com/2021/01/18/process-herpaderping-windows-defender-evasion/amp/ <br>
 https://github.com/jesusprubio/bluebox-ng <br>
 https://jarnobaselier.nl/hacking-active-directory-cheatsheet/ <br>
+https://github.com/cobbr/Covenant <br>
+https://github.com/samratashok/nishang <br>
+https://github.com/besimorhino/powercat <br>
 
 
 

@@ -42,4 +42,5 @@ https://www.litmus.com/blog/the-ultimate-guide-to-web-fonts/ <br>
 
 __unsorted:__ <br>
 https://delta.navisec.io/ <br>
+https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/blob/master/linPEAS/linpeas.sh <br>
 

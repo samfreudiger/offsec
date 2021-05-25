@@ -36,6 +36,7 @@ https://github.com/OWASP/CheatSheetSeries <br>
 https://medium.com/@k43p/fuzzing-web-applications-with-burp-suite-7908e62d20f6 <br> 
 https://delta.navisec.io/a-pentesters-guide-part-5-unmasking-wafs-and-finding-the-source/ <br>
 https://xsshunter.com <br>
+https://github.com/fuzzdb-project/fuzzdb/blob/master/attack/sql-injection/detect/xplatform.txt <br>
 
 
 __phishing:__ <br>

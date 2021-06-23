@@ -26,7 +26,7 @@ https://github.com/besimorhino/powercat <br>
 https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993  <br>
 https://github.com/diego-treitos/linux-smart-enumeration  <br>
 https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/  <br>
-
+https://github.com/CiscoCXSecurity/enum4linux  <br>
 
 
 
